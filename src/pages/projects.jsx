@@ -8,6 +8,7 @@ const Projects = () => {
         <p className="text-lg text-gray-700">
           Here you can find a collection of projects created by our students. These projects showcase their skills, creativity, and dedication to learning.
         </p>
+        <a href="https://nike-chi-three.vercel.app/">nike</a>
       </div>
     </section>
   )
