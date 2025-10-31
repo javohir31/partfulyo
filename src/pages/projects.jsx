@@ -9,6 +9,9 @@ const Projects = () => {
           Here you can find a collection of projects created by our students. These projects showcase their skills, creativity, and dedication to learning.
         </p>
         <a href="https://nike-chi-three.vercel.app/">nike</a>
+        <a href="birinchi-sayt-5ok9jdkcs-javohirs-projects-a6a52ca5.vercel.app">birinchi sayt</a>
+        <a href="birinchi-card-neqingzy4-javohirs-projects-a6a52ca5.vercel.app">birinchi card</a>
+        
       </div>
     </section>
   )
