@@ -1,14 +1,13 @@
+import ContactForm from "../component/contact-form";
 
 const Contact = () => {
   return (
-    <section>
+    <section className="mt-40">
       <div className="container">
-        <h1 className="text-4xl font-bold mb-10">Contact Us</h1>
-        <p className="text-lg text-gray-700">
-          If you have any questions, suggestions, or would like to get in touch, please feel free to reach out to us at </p>
-          </div>
+        <ContactForm/>
+      </div>
     </section>
-  )
-}
+  );
+};
 
-export default Contact
+export default Contact;
